@@ -2,11 +2,14 @@
   "name": "pygmalion-autentication",
   "version": "1.0.0",
   "description": "Autentication - Pygmalion",
-  "main": "index.js",
+  "main": "/src/JSindex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
 }
